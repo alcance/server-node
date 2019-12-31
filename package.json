@@ -1,0 +1,21 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "description": "Server Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Ivan Martinez <devsgo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
